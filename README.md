@@ -12,6 +12,3 @@
 <a href="https://fb.com/mdimranul.haque.ph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mdimranul.haque.ph" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-2021&show_icons=true&locale=en&layout=compact" alt="imran-2021" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-2021&" alt="imran-2021" /></p>
-
