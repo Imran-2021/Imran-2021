@@ -1,4 +1,7 @@
 <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Imran-2021" alt="priyanshumay" />
+</p>
+<p align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35%" align="right">
   <br><br>
   <samp>
